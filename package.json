@@ -294,7 +294,7 @@
     "postcss-custom-properties": "^12.1.7",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-styleguidist": "^11.2.0",
+    "react-styleguidist": "^13.1.3",
     "rimraf": "^3.0.2",
     "rollup": "^2.74.1",
     "rollup-plugin-commonjs": "^10.1.0",
